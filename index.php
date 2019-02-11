@@ -4,8 +4,7 @@
 <meta charset="utf-8" />
 </head>
 <body>
-<div id="header">
-<h1 class="site-title">Site Title</h1>
+<?php get_header(); ?>
 </div>
 <div id="main">
 </div>
