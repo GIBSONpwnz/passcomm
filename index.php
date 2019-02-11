@@ -9,12 +9,10 @@
 <div id="main">
 <div class="post"></div>
 </div>
-<div id="sidebar">
-<div class="widget"></div>
-</div>
+<?php get_sidebar(); ?>
 <div id="main-sidebar">
 <div class="widget"></div>
 </div>
-<div id="footer"></div>
+<?php get_footer(); ?>
 </body>
 </html>
