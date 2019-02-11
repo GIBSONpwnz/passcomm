@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
-<head></head>
+<head>
+<meta charset="utf-8" />
+</head>
 <body>
 <div id="header">
 <h1 class="site-title">Site Title</h1>
-<div class="nav-menu"></div>
 </div>
 <div id="main">
-<div class="post"></div>
 </div>
 <div id="sidebar">
 <div class="widget"></div>
