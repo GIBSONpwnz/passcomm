@@ -5,8 +5,7 @@
 </head>
 <body>
 <?php get_header(); ?>
-    <h1 class="site-title">Site Title</h1>
-<div id="main">
+    <div id="main">
 </div>
 <?php get_sidebar(); ?>
 <div id="main-sidebar">
