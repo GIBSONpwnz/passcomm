@@ -6,13 +6,11 @@ Author: Аноним
 Author URI: 
 */
  {
-
 margin:0; /*Обнуление всех отступов, если отступы нужны, то просто проставляется размер шага */
-
 padding:0;
-
 }
 
 body {
-
-font-family: Helvetica
+font-family: Helvetica; /*Задаем шрифт*/
+display:block; /*Заставляем все элементы вести себя как блочные*/
+}
